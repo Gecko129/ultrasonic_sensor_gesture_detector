@@ -3,7 +3,6 @@ Script di riconoscimento gesti attraverso sensore di distanza HC-SR04 e machine 
 Questo programma acquisisce dati da un sensore di distanza collegato ad Arduino,
 elabora i dati con un modello di machine learning pre-addestrato e invia il risultato
 del riconoscimento del gesto nuovamente ad Arduino.
-Progetto sviluppato da Filippo Zanta e Gianluca Morello.
 
 """
 
